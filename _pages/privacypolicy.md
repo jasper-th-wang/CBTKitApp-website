@@ -4,57 +4,73 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**Last updated:** January 2, 2026
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+ReframeKit is a free cognitive behavioral therapy companion app developed by Jasper Wang. This privacy policy explains how the app handles your information.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## Information Collection and Use
 
-<br>
+ReframeKit is designed with privacy as a core principle. **We do not collect, store, or transmit any of your personal data.** All your thought entries, emotions, reframes, and drafts are stored locally on your device only in a secure SQLite database. Nothing is uploaded to external servers or shared with third parties.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Data Storage
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+- **Local Storage Only**: All data remains exclusively on your device
+- **Draft Persistence**: In-progress thought entries are automatically saved to your device using SQLite and temporary JSON files
+- **No Cloud Sync**: Currently, ReframeKit does not sync your data to any cloud service (this may change in future versions with your explicit consent)
+- **Data Deletion**: If you delete the app, all your data is permanently removed from your device
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## TestFlight Beta Testing
 
-<br>
+ReframeKit is currently available exclusively through Apple's TestFlight beta testing program. During beta testing:
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+- **Apple Collection**: Apple collects crash logs, usage information, and any feedback you submit through TestFlight
+- **Developer Access**: The developer receives crash reports (only if you choose to share them), your name, email address, and any feedback you provide through TestFlight
+- **Crash Reports**: When the app crashes, you'll be asked if you want to share crash details with the developer - this is optional
+- **Usage Restrictions**: Information shared through TestFlight is used solely to improve ReframeKit and is not shared with any third parties
+- **Apple's Use**: Apple may use TestFlight data to improve the TestFlight app and detect fraud
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+For more details about TestFlight's data practices, visit [TestFlight & Privacy](https://www.apple.com/legal/privacy/data/en/test-flight/).
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## Third-Party Services
 
-<br>
+ReframeKit uses minimal third-party open-source libraries for core functionality (SwiftNavigation, Dependencies, Shared by Point-Free). These libraries operate entirely on your device and do not collect or transmit any data.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## No Analytics or Tracking
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+The app does not use any analytics tools, tracking SDKs, advertising networks, or cookies.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## Future Features
 
-<br>
+We are considering adding the following features in future versions:
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+- **Cloud Backup**: Optional cloud sync to preserve your data across devices (will require explicit opt-in)
+- **Data Export**: Ability to export your thought history for backup purposes
+- **Email Support**: Option to contact support via email from within the app
 
-<br>
+If any of these features are implemented, this privacy policy will be updated accordingly, and you will be notified of the changes.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## GDPR and Privacy Compliance
+
+As ReframeKit does not collect or process any personal data (beyond what TestFlight collects during beta testing), the app inherently complies with GDPR, PIPEDA (Canada), and other data protection regulations.
+
+## Children's Privacy
+
+ReframeKit does not knowingly collect information from children. However, there is no minimum age requirement to use the app during beta testing. If you are a parent or guardian and believe your child has used TestFlight to test this app, please contact us.
+
+## Liability and Data Backup
+
+While we strive to create a reliable app, we cannot guarantee it will be completely bug-free, especially during beta testing. Once the export feature is available, we recommend backing up your important thought entries regularly.
+
+## Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. Significant changes will be communicated through TestFlight or the App Store.
+
+## Jurisdiction
+
+This privacy policy is governed by the laws of Canada.
+
+## Contact
+
+If you have any questions or concerns about this privacy policy or ReframeKit's privacy practices, please contact us at:
+
+**jasper.th.wang@icloud.com**
