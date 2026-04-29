@@ -47,4 +47,4 @@ This privacy policy is governed by the laws of Canada.
 
 If you have any questions or concerns about this privacy policy or ReframeKit's privacy practices, please contact us at:
 
-**jasper.th.wang@icloud.com**
+**support@jasperwang.dev**
