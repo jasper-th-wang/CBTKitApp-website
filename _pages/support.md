@@ -4,7 +4,7 @@ title: Support
 include_in_header: true
 ---
 
-Hi, I'm Jasper — the developer behind ReframeKit. It's a free app I build in my spare time, and I'd love to hear from you.
+Hi, I'm Jasper, the developer behind ReframeKit. It's a free app I build in my spare time, and I'd love to hear from you.
 
 ## Get in touch
 
