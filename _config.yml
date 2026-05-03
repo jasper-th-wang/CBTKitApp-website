@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :  ReframeKit                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :  Free                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           :  a CBT companion app to identify, challenge, and reframe negative thought patterns.
+app_description                           :  a CBT companion app that helps you notice, challenge, and reframe the automatic thoughts behind difficult emotions.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,28 +38,28 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Guided Thought Entry Flow
-    description                           : Step-by-step process to capture situations, thoughts, emotions, and reframes.
+  - title                                 : Guided Reframes
+    description                           : A step-by-step process that captures the situation, the emotions you felt (and how strongly), your automatic thoughts, the cognitive distortions at play, and the reframed thoughts that result.
     fontawesome_icon_name                 : clipboard-list
 
-  - title                                 : Draft Persistence
-    description                           : Your in-progress entries are automatically and continuously saved — even if you quit midway — so you can return to them anytime without losing your work.
+  - title                                 : Draft Autosave
+    description                           : Your in-progress Reframe is continuously saved automatically. Quit midway and pick up exactly where you left off.
     fontawesome_icon_name                 : save
 
-  - title                                 : Thought History
-    description                           : Review and learn from your past entries.
+  - title                                 : Past Reframes
+    description                           : Revisit past Reframes to spot recurring patterns and notice your growth.
     fontawesome_icon_name                 : history
 
-  - title                                 : Deleted Entries Recovery
-    description                           : Deleted entries are retained for 30 days so you can restore accidental deletions.
+  - title                                 : Recently Deleted
+    description                           : Deleted Reframes are kept for 30 days, so accidental deletions are easy to restore.
     fontawesome_icon_name                 : undo
 
   - title                                 : Simple, Focused Interface
-    description                           : Clean design that keeps you focused on the reflection process.
+    description                           : A clean, distraction-free design that keeps you grounded in the reflection process.
     fontawesome_icon_name                 : eye
 
-  - title                                 : Full Text Search
-    description                           : Search across your entries to quickly find past thoughts, tags, and reframes.
+  - title                                 : Full-Text Search
+    description                           : Quickly search across your Reframes — situations, automatic thoughts, challenges, and reframed thoughts alike.
     fontawesome_icon_name                 : search
 
 
