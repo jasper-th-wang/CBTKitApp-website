@@ -7,6 +7,23 @@ include_in_header: true
 <br>
 
 ### `Latest`
+---
+
+# **v1.1.0 — Richer emotion vocabulary**
+- New What's New page in Settings so you can see the latest updates
+- More emotions to choose from, now grouped by category for easier picking
+- Tap and hold to select and copy text from past entries
+- Polished wording across the app for a more consistent feel
+- Fixed emotion intensity to stay within 1–10
+
+---
+
+# **v1.0.1 — Copy refinements**
+- Clearer guidance and tips throughout the Reframe steps
+- Refined welcome screen copy
+
+---
+
 # **v1.0.0 — App Store Release**
 ReframeKit is officially available on the App Store!
 
