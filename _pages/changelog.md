@@ -7,6 +7,12 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **v1.0.0 — App Store Release**
+ReframeKit is officially available on the App Store!
+
+---
+
+### `Beta`
 # **Beta Release**
 ReframeKit is a cognitive behavioral therapy (CBT) companion app designed to help you identify, challenge, and reframe negative thought patterns. Through a guided thought entry process, ReframeKit walks you through analyzing situations that trigger difficult emotions, identifying the thoughts behind them, and developing healthier perspectives.
 
