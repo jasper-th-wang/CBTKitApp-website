@@ -9,7 +9,13 @@ include_in_header: true
 ### `Latest`
 ---
 
-# **v1.1.0 — Richer emotion vocabulary**
+# **v1.1.1**
+- Text fields now expand as you type for more comfortable multi-line writing
+- What's New now opens as a sheet for quicker dismissal
+
+---
+
+# **v1.1.0**
 - New What's New page in Settings so you can see the latest updates
 - More emotions to choose from, now grouped by category for easier picking
 - Tap and hold to select and copy text from past entries
@@ -18,13 +24,13 @@ include_in_header: true
 
 ---
 
-# **v1.0.1 — Copy refinements**
+# **v1.0.1**
 - Clearer guidance and tips throughout the Reframe steps
 - Refined welcome screen copy
 
 ---
 
-# **v1.0.0 — App Store Release**
+# **v1.0.0**
 ReframeKit is officially available on the App Store!
 
 ---
