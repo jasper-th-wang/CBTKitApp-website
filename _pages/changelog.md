@@ -9,8 +9,15 @@ include_in_header: true
 ### `Latest`
 ---
 
+# **v1.1.2**
+- Renamed Export/Import to Backup/Restore for clarity
+- Recover individual entries from Recently Deleted
+- Smoother haptics, friendlier empty screens, and various polish
+
+---
+
 # **v1.1.1**
-- Text fields now expand as you type for more comfortable multi-line writing
+- Text fields now closes when you swipe down
 - What's New now opens as a sheet for quicker dismissal
 
 ---
