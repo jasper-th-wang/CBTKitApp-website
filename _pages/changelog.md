@@ -9,6 +9,14 @@ include_in_header: true
 ### `Latest`
 ---
 
+# **v1.1.3**
+- Confirmation prompt when saving edits to emotions and distortions
+- Friendlier empty screen when emotion or entry search comes up empty
+- Improved highlighting of matched text in search results
+- Clearer tips on the Challenge step
+
+---
+
 # **v1.1.2**
 - Renamed Export/Import to Backup/Restore for clarity
 - Recover individual entries from Recently Deleted
