@@ -9,6 +9,16 @@ include_in_header: true
 ### `Latest`
 ---
 
+# **v1.2.0**
+- Share a single entry as plain text from the share button
+- Export all entries to CSV; Backup and Data are now separate sections in Settings
+- Refreshed welcome screen
+- More legible disclaimer on Recently Deleted
+- Added a review button and icons to buttons in Settings
+- Help & Feedback email now opens directly in your mail app
+
+---
+
 # **v1.1.3**
 - Confirmation prompt when saving edits to emotions and distortions
 - Friendlier empty screen when emotion or entry search comes up empty
