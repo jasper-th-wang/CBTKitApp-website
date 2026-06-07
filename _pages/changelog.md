@@ -9,6 +9,11 @@ include_in_header: true
 ### `Latest`
 ---
 
+# **v1.2.1**
+- Fixed an issue where the emotion section in preview wasn't displaying correctly
+
+---
+
 # **v1.2.0**
 - Share a single entry as plain text from the share button
 - Export all entries to CSV; Backup and Data are now separate sections in Settings
